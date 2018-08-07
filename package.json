@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "YouTube App",
   "main": "index.js",
+  "homepage": "https://dpgian.github.io/YouTubeSearch"
   "scripts": {
     "test": "karma start",
     "start": "node server.js",
